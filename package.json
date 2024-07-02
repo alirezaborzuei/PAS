@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start -p 8085",
     "lint": "next lint",
-    "postinstall": "npm install --force " //--legacy-peer-deps
+    "postinstall": "npm install --force " 
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.6",
